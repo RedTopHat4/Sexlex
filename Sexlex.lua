@@ -1179,6 +1179,9 @@ local script = G2L["6"];
 		function()
 			notify("Sexlex v4", "DO NOT EXECUTE SEXLEX AT 3 AM OR ELSE YOU WILL SUMMON GEORGE DROYD...")
 		end,
+		function()
+			notify("Sexlex v4", "Hacked by RedTopHat")
+		end,
 	    -- Add more options as needed
 	}
 	
