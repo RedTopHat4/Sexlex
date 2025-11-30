@@ -598,7 +598,7 @@ G2L["32"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["32"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
 G2L["32"]["Size"] = UDim2.new(0, 200, 0, 50);
 G2L["32"]["BorderColor3"] = Color3.fromRGB(0, 0, 0);
-G2L["32"]["Text"] = [[placeholder]];
+G2L["32"]["Text"] = [[anti bliooz bypass 3000]];
 G2L["32"]["Name"] = [[placeholder 1]];
 G2L["32"]["Position"] = UDim2.new(0.77766, 0, 0.38614, 0);
 
